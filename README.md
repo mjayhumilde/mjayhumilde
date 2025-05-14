@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-[![Portfolio](https://c063f90c.portfolio-8c1.pages.dev/favicon.ico)](https://c063f90c.portfolio-8c1.pages.dev/)
-
 I'm Mark John Humilde, a passionate and driven third-year Computer Science student actively seeking internship opportunities to further develop my web development skills. I'm particularly interested in **Frontend (React.js, Tailwind CSS), Backend (Express.js, MongoDB, Node.js), and Full-Stack MERN development**. I'm open to **remote work** and **part-time positions** that will allow me to contribute to real-world projects and enhance my abilities.
 
 Currently, I'm heavily involved in developing the **PASS COLLEGE OFFICIAL WEBSITE**, our thesis project, which is approximately 50-60% complete with the backend development being the primary focus now. This experience is providing me with valuable insights into the full software development lifecycle.
