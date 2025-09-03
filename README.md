@@ -1,6 +1,6 @@
 ## 👋 Hi! Aspiring MERN Dev Seeking Internship (Frontend/Backend/Full-Stack)
 
-Third-year Computer Science student eager for Frontend (React.js/Tailwind), Backend (Node.js/Express/MongoDB), or Full-Stack MERN internship. Currently building backend for our thesis: PASS COLLEGE OFFICIAL WEBSITE. Learning Zustand, Redux, Framer Motion. Open to remote/part-time roles.
+Third-year Computer Science student eager for Frontend (React.js/Tailwind), Backend (Node.js/Express/MongoDB), or Full-Stack MERN internship. Currently building backend for our thesis: PASS COLLEGE OFFICIAL WEBSITE. Open to remote/part-time roles.
 
 **Connect:**
 
