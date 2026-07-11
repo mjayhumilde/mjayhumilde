@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Mark John Humilde 👋</h1>
-<h3 align="center">Full-Stack Web Developer | QA Automation</h3>
+<h3 align="center">Full-Stack Web Developer | Backend/Frontend & QA Automation</h3>
 
 <p align="center">
-  Building reliable, scalable web systems — from GraphQL APIs and microservices to polished React front ends.
-  <br/>
-  Currently a Backend Web Developer / QA Automation Engineer @ Virtual Wonders Web Solution.
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge&logo=google-jobs&logoColor=white" />
+</p>
+
+<p align="center">
+  Fresh grad with 1 year of professional experience as a Software Engineer, with exposure to microservice architecture, AWS, and Docker. Focused on writing best-practice code and clean architecture.
 </p>
 
 <p align="center">
@@ -12,17 +14,6 @@
   <a href="https://www.linkedin.com/in/markjohnhumilde00" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:humildemarkjohn00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on **GraphQL APIs**, **microservices**, and **CI/CD pipelines** on AWS
-- 🌱 Background spans both **backend** (Node.js, Express, MongoDB, SQL) and **frontend** (React, Next.js, TypeScript)
-- 🧪 Strong QA foundation — regression testing, Playwright E2E automation, manual & API testing (Postman)
-- 🎓 BS Computer Science @ Pass College (Graduating July 2026)
-- 💬 Open to **Backend** or **Frontend** roles — let's talk!
-- ⚡ Fun fact: I'm also a guitarist & drummer who's led music teams for years
 
 ---
 
@@ -68,13 +59,6 @@
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-### 📌 Featured Project
-
-**[PASS College Official Website (Thesis Project)](https://github.com/mjayhumilde)**
-A full-stack, role-based platform built to bridge student-admin communication — featuring chatbot support, student account requests, social interactions (like/comment/post/message admin), and a document request system with real-time status tracking.
 
 ---
 
