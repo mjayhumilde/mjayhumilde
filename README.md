@@ -6,7 +6,11 @@
 </p>
 
 <p align="center">
-  Fresh grad with 1 year of professional experience as a Software Engineer, with exposure to microservice architecture, AWS, and Docker. Focused on writing best-practice code and clean architecture.
+  Software Engineer, 1+ year of professional experience building with microservice architecture, AWS, and Docker.
+
+Coding is what I genuinely enjoy. I actively seek out code reviews from senior engineers to actually get better, not just ship and move on.
+
+Right now I'm expanding into AI, working with RAG and LangChain to build retrieval-based applications.
 </p>
 
 <p align="center">
